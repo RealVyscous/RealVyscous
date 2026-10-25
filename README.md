@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hey, I'm Pushkar 👋
 
-<!--
-**RealVyscous/RealVyscous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+First-year engineering student at BML Munjal University. I started coding two months ago with C, and I'm now learning Python and web development.
 
-Here are some ideas to get you started:
+## What I'm doing
+- Learning C, Python, HTML/CSS/JavaScript
+- Building new projects to practice what I learn
+- Trying to get a little better every day
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What's next
+- Data Science, and possibly AI/ML after that
+
+## Projects
+- India income tax calculator: started in C, then rebuilt as a web app
+
+## Find me here
+- LinkedIn: 
