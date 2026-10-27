@@ -11,7 +11,7 @@ First-year engineering student at BML Munjal University. I started coding two mo
 - Data Science, and possibly AI/ML after that
 
 ## Projects
-- India income tax calculator: started in C, then rebuilt as a web app
+- karhisaab: started in C, then rebuilt as a web app
 
 ## Find me here
 - LinkedIn: 
